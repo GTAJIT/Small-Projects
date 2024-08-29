@@ -14,7 +14,7 @@ Welcome to the **Small Projects** repository! This is a collection of small yet 
 
 Here is a list of some of the projects included in this repository:
 
-- **[FileFlow_Organizer.py]([https://www.linkedin.com/in/jit-mukherjee](https://github.com/GTAJIT/Small-Projects/blob/main/FileFlow_Organizer.py))**: A Python script that renames files in a directory based on their creation time. This helps organise files chronologically, making them easier to find and manage.
+- **[FileFlow_Organizer.py](https://github.com/GTAJIT/Small-Projects/blob/main/FileFlow_Organizer.py)**: A Python script that renames files in a directory based on their creation time. This helps organise files chronologically, making them easier to find and manage.
   - **Technologies Used**: Python, `os`, and `time` modules.
   - **Usage**: Suitable for cleaning up directories with scattered files by sorting them according to their creation dates.
 
