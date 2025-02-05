@@ -12,4 +12,4 @@ if 1<e<a:
     print("The Encryption of M: ",m)
     print("The Decryption of C: ",c)
 else:
-    print("Give a Correct Value (1<E<{a})")
+    print(f"Give a Correct Value (1<E<{a})")

@@ -21,7 +21,7 @@ while j>=1 and j<=10:
         y = a+b
         print(a, "+", b)
     #choosing
-    z = round(float(input())) #ans input
+    z = round(float(int(input()))) #ans input
     if z == y:
         print("Correct,  ","your money: ",h,"$") #loop cycle to 10000000$
     else:
